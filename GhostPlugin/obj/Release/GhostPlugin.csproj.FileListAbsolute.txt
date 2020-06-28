@@ -1,0 +1,6 @@
+C:\Users\fabio\Downloads\Ghost\GhostPlugin\bin\Release\GhostPlugin.dll
+C:\Users\fabio\Downloads\Ghost\GhostPlugin\bin\Release\GhostPlugin.pdb
+C:\Users\fabio\Downloads\Ghost\GhostPlugin\obj\Release\GhostPlugin.csprojAssemblyReference.cache
+C:\Users\fabio\Downloads\Ghost\GhostPlugin\obj\Release\GhostPlugin.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Downloads\Ghost\GhostPlugin\obj\Release\GhostPlugin.dll
+C:\Users\fabio\Downloads\Ghost\GhostPlugin\obj\Release\GhostPlugin.pdb
